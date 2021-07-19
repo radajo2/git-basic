@@ -1,3 +1,4 @@
 Add - Changes to the staging area
 Commit - Changes
 Push -  Local commits to publish them to GitHub
+## Edited by RADAJO2
